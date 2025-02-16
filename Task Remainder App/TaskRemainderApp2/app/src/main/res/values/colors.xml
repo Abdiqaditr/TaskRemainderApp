@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="navy_blue">#1F2937</color>
+    <color name="slate_gray">#64748B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#E5E7EB</color>
+    <color name="black">#000000</color>
+
+    <!-- Theme Colors -->
+    <color name="primary">@color/navy_blue</color>
+    <color name="primary_variant">@color/slate_gray</color>
+    <color name="background">@color/light_gray</color>
+    <color name="surface">@color/white</color>
+    <color name="error">#B00020</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">@color/navy_blue</color>
+    <color name="text_secondary">@color/slate_gray</color>
+    <color name="text_hint">@color/light_gray</color>
+
+    <!-- Other UI Colors -->
+    <color name="divider">@color/light_gray</color>
+    <color name="priority_high">#FF6B6B</color>
+    <color name="priority_normal">#4CAF50</color>
+
+    <!-- Status Bar and Navigation -->
+    <color name="status_bar">@color/light_gray</color>
+    <color name="navigation_bar">@color/white</color>
+
+    <!-- On Colors (Text/Icons on top of main colors) -->
+    <color name="on_primary">@color/white</color>
+    <color name="on_background">@color/navy_blue</color>
+    <color name="on_surface">@color/navy_blue</color>
+    <color name="on_error">@color/white</color>
+
+
+    <color name="secondary">#03A9F4</color>
+    <color name="btmbg">#FFFFFF</color>
+
+</resources>
